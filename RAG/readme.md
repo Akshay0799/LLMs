@@ -1,1 +1,3 @@
-## Contains the code snippets neededto create a RAG pipeline
+## Contains the code snippets for the following:
+* RAG pipeline
+* Sample code for Agentic workflows
